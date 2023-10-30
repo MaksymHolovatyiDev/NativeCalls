@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/CallAnswer.tsx",
+      "sha1": "8f98e8929f2d8e0a74f1a3cf97c98e58787690ab"
+    },
+    {
+      "path": "src/assets/CallEnd.tsx",
+      "sha1": "36767bcd7a05e5a7f82114b732821d8cce9d907d"
+    },
+    {
+      "path": "src/assets/svg.ts",
+      "sha1": "e5decf2cfc47792f640135839baea76c5001f8a8"
+    }
+  ]
+}
